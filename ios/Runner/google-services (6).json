@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297751639863",
+    "project_id": "national-football-league-ca2f1",
+    "storage_bucket": "national-football-league-ca2f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297751639863:android:ff672a690d2740cf73ccb2",
+        "android_client_info": {
+          "package_name": "com.example.nfl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMnhSFWslyI53REosho3RH8TYu8Kfc6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
